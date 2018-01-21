@@ -1,0 +1,4 @@
+disable-surfaces
+disable-gpu
+disable-gpu-compositing
+disable-gpu-vsync
